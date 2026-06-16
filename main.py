@@ -17,7 +17,7 @@ elif control == "s":
             break
 
         elif guess > random_num:
-            print("Lower")
+            print("Lower!")
 
         else:
             print("Higher!")
